@@ -1,6 +1,6 @@
 ## Como estão? 👋
 
-#### Meu nome é Gustavo Fernandes Santos e estou em busca uma carreira como um desenvolvedor back end
+#### Meu nome é Gustavo Fernandes Santos e estou em busca de uma carreira como um desenvolvedor back end junior
 
 
 - 🔭 Atualmente com foco em projetos pessoais e a procura de uma oportunidade profissional!
