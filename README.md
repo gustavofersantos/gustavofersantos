@@ -8,7 +8,7 @@
 
 #
 
-### Linguagens de familiaridade
+### Linguagens e tecnologias
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
