@@ -1,6 +1,6 @@
 ## Como estão? 👋
 
-#### Meu nome é Gustavo Fernandes Santos e estou em busca de uma carreira como Desenvolvedor Backend
+#### Meu nome é Gustavo Fernandes Santos e estou em busca de uma carreira como Desenvolvedor Backend/Full-Stack
 
 
 - 🔭 Atualmente com foco em projetos pessoais e a procura de uma oportunidade profissional!
@@ -8,7 +8,7 @@
 
 #
 
-### Linguagens que possuo familiaridade
+### Linguagens de familiaridade
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -25,5 +25,4 @@
 ### Conecte-se comigo no LinkedIn!
 <div>
  <a href="www.linkedin.com/in/gustavo-fernandes-704325260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "gustavofdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
