@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-Meu nome é **Gustavo Fernandes Santos**, sou apaixonado por tecnologia e atualmente estou construindo minha carreira como **Desenvolvedor Backend**, com foco principal na stack **Java** e **Spring Boot**, mas também com vivência em **Python (Django/DRF)** e **Vue.js** no frontend.
+Meu nome é **Gustavo Fernandes Santos**, sou apaixonado por tecnologia e atualmente estou construindo minha carreira como **Desenvolvedor Full-stack**, com foco principal na stack **Java** e **Spring Boot**, mas também com vivência em **Python (Django/DRF)** e **Vue.js** no frontend.
 
 Tenho formação técnica em Informática, experiência prática com suporte técnico e hoje me dedico a projetos pessoais, cursos e desafios técnicos com o objetivo de me tornar um profissional cada vez mais completo.
 
