@@ -14,6 +14,7 @@ Tenho formação técnica em Informática, experiência prática com suporte té
 - Avançando com Java e Angular
 - Estudando boas práticas e padrões de projeto
 - Aprendendo mais sobre Git
+- E **principalmente** meu projeto de gestão de academias, **"gym-management"**, dê uma olhada!
 
 ---
 
